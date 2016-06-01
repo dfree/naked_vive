@@ -79,6 +79,6 @@ public class InteractableItem : MonoBehaviour {
 
     private void OnDestroy() {
         // Destroy the empty game object associated with interaction point
-        Destroy(interactionPoint.gameObject);
+      //  Destroy(interactionPoint.gameObject);
     }
 }
