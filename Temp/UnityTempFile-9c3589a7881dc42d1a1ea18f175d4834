@@ -112,5 +112,7 @@
 'Assets/SteamVR/Scripts/SteamVR_TrackedObject.cs'
 'Assets/SteamVR/Scripts/SteamVR_UpdatePoses.cs'
 'Assets/SteamVR/Scripts/SteamVR_Utils.cs'
+'Assets/VR Scripts/InteractableItem.cs'
+'Assets/VR Scripts/WandController.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
